@@ -8,4 +8,4 @@
 * TailWindCSS.
 
 ## Watch demo ##
-### [LINK](https://billizane.github.io/vue-youtube-clone) ###
+### [LINK](https://GoldenSpade.github.io/vue-youtube-clone) ###
